@@ -1,0 +1,12 @@
+{
+  "version": "2.1.0",
+  "buildNumber": 15,
+  "publishedAt": "2026-09-01T10:37:52Z",
+  "notes": "新增移动端语音点歌；修复随机播放队列与当前歌曲定位；降低列表滚动、封面解码和播放页高频刷新开销。",
+  "androidDownloadUrl": "https://github.com/kange666/MusicHub/releases/latest/download/Jusic-Android-universal.apk",
+  "androidSha256": "cf5c8b2ca1a35904f6b929368f3ebe4b51f21f177497628fb051c32be186f7d1",
+  "androidSize": 99880755,
+  "androidArm64DownloadUrl": "https://github.com/kange666/MusicHub/releases/latest/download/Jusic-Android-arm64-v8a.apk",
+  "androidArm64Sha256": "d85e9d1b3ff3bd945a5667e71f81f90df7ad7a33d4ec5c4cd50c8543bd934c77",
+  "androidArm64Size": 51873652
+}
