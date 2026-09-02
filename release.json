@@ -1,12 +1,12 @@
 {
-  "version": "2.1.1",
-  "buildNumber": 16,
-  "publishedAt": "2026-09-02T08:40:05Z",
-  "notes": "修复部分移动网络检查更新返回 403；更新清单优先读取 GitHub Pages，并保留 GitHub Release 备用源。",
+  "version": "2.1.2",
+  "buildNumber": 2017,
+  "publishedAt": "2026-09-02T10:27:59Z",
+  "notes": "提升语音点歌的开口等待、短歌名和多候选匹配可靠性，并将语音入口移入固定操作区避免遮挡。",
   "androidDownloadUrl": "https://github.com/kange666/MusicHub/releases/latest/download/Jusic-Android-universal.apk",
-  "androidSha256": "6e274f2a1e167ea749f8816f2cdba8a2ced2232999dbd142daa9e5ea3c15a4fe",
-  "androidSize": 99880751,
+  "androidSha256": "da7bf3b939a80b06311d2c158bf9c8f40f62b0fcfa2aedde00745e818cdf7674",
+  "androidSize": 99864407,
   "androidArm64DownloadUrl": "https://github.com/kange666/MusicHub/releases/latest/download/Jusic-Android-arm64-v8a.apk",
-  "androidArm64Sha256": "8f116d9b5cce401f7c7b87813ec7ea52fd165344b9303a6303c81235d32021f2",
-  "androidArm64Size": 38315054
+  "androidArm64Sha256": "15440240f4b195a0a7d158448ef74d4a3dd0f63f000cb5c4c4d54d5488f7bcd7",
+  "androidArm64Size": 51857304
 }
